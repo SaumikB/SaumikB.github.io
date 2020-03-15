@@ -1,6 +1,4 @@
 theme: jekyll-theme-slate
 title: Saumik Bhattacharya
-{% if site.github.is_project_page %}
-github:
-  is_project_page: false
+site.github.is_project_page: false
 
