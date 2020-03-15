@@ -48,8 +48,8 @@
   Himanshu Kumar, **Saumik Bhattacharya**, Sinnu Susan Thomas, Sumana Gupta and K S Venkatesh<br/>
   *IEEE International Conference on Digital Signal Processing (DSP) 2017*
   
-* [Detection & Classification of Imperceptible Motion Using Video Decomposition](https://ieeexplore.ieee.org/abstract/document/7868565)\
-  **Saumik Bhattacharya**, K. S. Venkatesh, and Sumana Gupta\
+* [Detection & Classification of Imperceptible Motion Using Video Decomposition](https://ieeexplore.ieee.org/abstract/document/7868565)<br/>
+  **Saumik Bhattacharya**, K. S. Venkatesh, and Sumana Gupta<br/>
   *IEEE 21st International Conference on Digital Signal Processing (DSP) 2016*
   
 * [Dehazing of Color Image Using Stochastic Enhancement](https://ieeexplore.ieee.org/abstract/document/7532759)<br/>
@@ -64,8 +64,8 @@
   Aarti Ghatkesar, **Saumik Bhattacharya**, K.S. Venkatesh<br/>
   *IEEE 3rd International Conference on Image Information Processing (ICIIP) 2015*
 
-* [Hilbert curve based steganographic scheme for large data hiding](https://ieeexplore.ieee.org/abstract/document/7414746)\
-  Sayantari Ghosh , **Saumik Bhattacharya**\
+* [Hilbert curve based steganographic scheme for large data hiding](https://ieeexplore.ieee.org/abstract/document/7414746)<br/>
+  Sayantari Ghosh , **Saumik Bhattacharya**<br/>
   *IEEE 3rd International Conference on Image Information Processing (ICIIP) 2015*
 
 * [Depth filtering using total variation based video decomposition](https://ieeexplore.ieee.org/abstract/document/7414733)<br/>
