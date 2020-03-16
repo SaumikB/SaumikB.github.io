@@ -1,4 +1,4 @@
-[Bio](#bio) &nbsp; &nbsp; &nbsp; [Research Areas](#research-areas) &nbsp; &nbsp; &nbsp; [Teaching](teaching.md) &nbsp; &nbsp; &nbsp; [Publications](publications.md)
+### [Bio](#bio) &nbsp; &nbsp; &nbsp; [Research Areas](#research-areas) &nbsp; &nbsp; &nbsp; [Teaching](teaching.md) &nbsp; &nbsp; &nbsp; [Publications](publications.md)
 
 # Bio
 
