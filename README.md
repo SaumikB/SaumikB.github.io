@@ -13,12 +13,7 @@
 * Deep learning
 
 # News
-### 2020:
-* Our paper got accepted in Nature Scientific Reports.
-* Our [paper](https://arxiv.org/abs/1903.01192) got accepted in CVPR 2020.
-
-### 2019:
-* I joined the Dept. of E&ECE at IIT Kharagpur.
-
-### 2018:
-* I joined the Dept. of ECE at IIT Roorkee.
+* March 2020: Our paper got accepted in Nature Scientific Reports.
+* Feb. 2020: Our [paper](https://arxiv.org/abs/1903.01192) got accepted in CVPR 2020.
+* Sept. 2019: I joined the Dept. of E&ECE at IIT Kharagpur.
+* Dec. 2018: I joined the Dept. of ECE at IIT Roorkee.
