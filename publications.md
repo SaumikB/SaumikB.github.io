@@ -21,7 +21,7 @@
   
 * [Effects of Degradations on Deep Neural Network Architectures](https://arxiv.org/abs/1807.10108)<br/> 
   Prasun Roy, Subhankar Ghosh, **Saumik Bhattacharya**, Umapada Pal, *July 2018, June 2019*
-,  
+
 
 ### Journals:
 * [Viral Marketing on Social Networks: An Epidemiological Perspective](https://www.sciencedirect.com/science/article/pii/S0378437119302274)<br/>
