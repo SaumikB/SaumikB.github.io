@@ -3,6 +3,19 @@
 # Publications
 [Google Scholar](https://scholar.google.co.in/citations?user=8pffuA4AAAAJ&hl=en) &nbsp; &nbsp; &nbsp; [ResearchGate](https://www.researchgate.net/profile/Saumik_Bhattacharya)
 
+### Preprints:
+* [Co-VeGAN: Complex-Valued Generative Adversarial Network for Compressive Sensing MR Image Reconstruction](https://arxiv.org/abs/2002.10523)<br/>
+ Bhavya Vasudeva, Puneesh Deora, **Saumik Bhattacharya**, Pyari Mohan Pradhan<br/>
+
+* [Robust Compressive Sensing MRI Reconstruction using Generative Adversarial Networks]
+(https://arxiv.org/abs/1910.06067)
+ Puneesh Deora, Bhavya Vasudeva, **Saumik Bhattacharya**, Pyari Mohan Pradhan
+ 
+* [Ensuring the Spread of Referral Marketing Campaigns: A Quantitative Treatment]
+(https://osf.io/preprints/socarxiv/6spnr/)
+ Kumar Gaurav, Sayantari Ghosh, **Saumik Bhattacharya**, Yatindra Nath Singh
+ 
+
 ### Journals:
 * [Viral Marketing on Social Networks: An Epidemiological Perspective](https://www.sciencedirect.com/science/article/pii/S0378437119302274)<br/>
  **Saumik Bhattacharya**, Kumar Gaurav and Sayantari Ghosh<br/>
@@ -108,8 +121,6 @@
 * [Localized image enhancement](https://ieeexplore.ieee.org/abstract/document/6811269)<br/>
   **Saumik Bhattacharya**, Sumana Gupta, K. S. Venkatesh<br/>
   *IEEE 20th National Conference on Communications (NCC) 2014*
-
-### Preprints:
 
 
 ### Book Chapter
