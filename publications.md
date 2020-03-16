@@ -12,7 +12,16 @@
  
 * [Ensuring the Spread of Referral Marketing Campaigns: A Quantitative Treatment](https://osf.io/preprints/socarxiv/6spnr/)<br/>
  Kumar Gaurav, Sayantari Ghosh, **Saumik Bhattacharya**, Yatindra Nath Singh, *Sept 2019*
- 
+
+* [STEFANN: Scene Text Editor using Font Adaptive Neural Network](https://arxiv.org/abs/1903.01192)<br/>
+  Prasun Roy, **Saumik Bhattacharya**, Subhankar Ghosh, Umapada Pal, *March 2019*
+  
+* [Going Viral: The Epidemiological Strategy of Referral Marketing](https://arxiv.org/abs/1808.03780)<br/>
+  Sayantari Ghosh, **Saumik Bhattacharya**, Kumar Gaurav, Yatindra Nath Singh, *Aug 2018*
+  
+* [Effects of Degradations on Deep Neural Network Architectures](https://arxiv.org/abs/1807.10108)<br/> 
+  Prasun Roy, Subhankar Ghosh, **Saumik Bhattacharya**, Umapada Pal, *July 2018, June 2019*
+,  
 
 ### Journals:
 * [Viral Marketing on Social Networks: An Epidemiological Perspective](https://www.sciencedirect.com/science/article/pii/S0378437119302274)<br/>
