@@ -1,4 +1,4 @@
-[Bio](README.md/#bio) &nbsp; &nbsp; &nbsp; [Research Areas](README.md/#research-areas) &nbsp; &nbsp; &nbsp; [Teaching](teaching.md) &nbsp; &nbsp; &nbsp; [Publications](publications.md)
+### [Bio](README.md/#bio) &nbsp; &nbsp; &nbsp; [Research Areas](README.md/#research-areas) &nbsp; &nbsp; &nbsp; [Teaching](teaching.md) &nbsp; &nbsp; &nbsp; [Publications](publications.md)
 
 # Teaching
 ### At IIT Kharagpur
