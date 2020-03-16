@@ -1,4 +1,4 @@
-### [Bio](#bio) &nbsp; &nbsp; &nbsp; [Research Areas](#research-areas) &nbsp; &nbsp; &nbsp; [Teaching](teaching.md) &nbsp; &nbsp; &nbsp; [Publications](publications.md)
+### [Bio](#bio) &nbsp; &nbsp; &nbsp; [Research Areas](#research-areas) &nbsp; &nbsp; &nbsp; [News](#news) &nbsp; &nbsp; &nbsp; [Teaching](teaching.md) &nbsp; &nbsp; &nbsp; [Publications](publications.md) &nbsp; &nbsp; &nbsp; [Contact](contact.md)
 
 # Bio
 
@@ -11,3 +11,14 @@
 * Computer vision
 * Statistical learning
 * Deep learning
+
+# News
+### 2020:
+* Our paper got accepted in Nature Scientific Reports.
+* Our [paper](https://arxiv.org/abs/1903.01192) got accepted in CVPR 2020.
+
+### 2019:
+* I joined the Dept. of E&ECE at IIT Kharagpur.
+
+### 2018:
+* I joined the Dept. of ECE at IIT Roorkee.
