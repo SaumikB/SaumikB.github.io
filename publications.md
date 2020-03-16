@@ -5,14 +5,12 @@
 
 ### Preprints:
 * [Co-VeGAN: Complex-Valued Generative Adversarial Network for Compressive Sensing MR Image Reconstruction](https://arxiv.org/abs/2002.10523)<br/>
- Bhavya Vasudeva, Puneesh Deora, **Saumik Bhattacharya**, Pyari Mohan Pradhan<br/>
+ Bhavya Vasudeva, Puneesh Deora, **Saumik Bhattacharya**, Pyari Mohan Pradhan
 
-* [Robust Compressive Sensing MRI Reconstruction using Generative Adversarial Networks]
-(https://arxiv.org/abs/1910.06067)
+* [Robust Compressive Sensing MRI Reconstruction using Generative Adversarial Networks](https://arxiv.org/abs/1910.06067)<br/>
  Puneesh Deora, Bhavya Vasudeva, **Saumik Bhattacharya**, Pyari Mohan Pradhan
  
-* [Ensuring the Spread of Referral Marketing Campaigns: A Quantitative Treatment]
-(https://osf.io/preprints/socarxiv/6spnr/)
+* [Ensuring the Spread of Referral Marketing Campaigns: A Quantitative Treatment](https://osf.io/preprints/socarxiv/6spnr/)<br/>
  Kumar Gaurav, Sayantari Ghosh, **Saumik Bhattacharya**, Yatindra Nath Singh
  
 
