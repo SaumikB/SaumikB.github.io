@@ -1,2 +1,3 @@
-**Email**: saumik[at]ece[dot]iitkgp[dot]ac[dot]in
+# Contact
+
 **Email**: saumik@ece.iitkgp.ac.in
