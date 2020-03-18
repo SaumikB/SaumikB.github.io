@@ -1,4 +1,4 @@
-### [Bio](README.md/#bio) &nbsp; &nbsp; &nbsp; [Research Areas](README.md/#research-areas) &nbsp; &nbsp; &nbsp; [Teaching](teaching.md) &nbsp; &nbsp; &nbsp; [Publications](publications.md)
+### [Home](README.md) &nbsp; &nbsp; &nbsp; [Publications](publications.md) &nbsp; &nbsp; &nbsp; [People](people.md) &nbsp; &nbsp; &nbsp; [Teaching](teaching.md) &nbsp; &nbsp; &nbsp; [Contact](contact.md)
 
 # Publications
 [Google Scholar](https://scholar.google.co.in/citations?user=8pffuA4AAAAJ&hl=en) &nbsp; &nbsp; &nbsp; [ResearchGate](https://www.researchgate.net/profile/Saumik_Bhattacharya)
