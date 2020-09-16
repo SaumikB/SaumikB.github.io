@@ -8,23 +8,23 @@
 ### Patents:
 * *Method and System for Dehazing Videos and Images in Real-time*<br/>
   **Saumik Bhattacharya**, Himanshu Kumar, Sumana Gupta, K.S.Venkatesh<br/>
-  Filing No. 201811027075 (Filing funded by IIT Kanpur)
+  Filing No. 201811027075 
   
 * *Method and System for Expansion of Visibility Range of an Image*<br/>
   **Saumik Bhattacharya**, Sumana Gupta, K.S. Venkatesh<br/>
-  Filing No. 201611011684 (Filing funded by IIT Kanpur)
+  Filing No. 201611011684 
   
 * *Colour Filter Array and Process for Real Time Foreground Extraction*<br/>
   **Saumik Bhattacharya**, Megha Nehwal, K.S. Venkatesh<br/>
-  Filing No. 201611006602 (Filing funded by IIT Kanpur)
+  Filing No. 201611006602 
   
 * *Gain Varying HDR Imaging*<br/>
   **Saumik Bhattacharya**, Megha Nehwal, K.S. Venkatesh<br/>
-  Filing No. 201611001989 (Filing funded by IIT Kanpur)
+  Filing No. 201611001989 
   
 * *Controlled Neutral Density Filter for HDRI*<br/>
   **Saumik Bhattacharya**, Narshimachari B, Megha Nehwal, K.S. Venkatesh<br/>
-  Filing No. 2804/DEL/2014, 2014 (Filing funded by IIT Kanpur)
+  Filing No. 2804/DEL/2014, 2014 
   
 ### Copyright:
 *  *STEFANN: Scene Text Editor using Font Adaptive Neural*<br/>
