@@ -5,27 +5,58 @@
 # Publications
 [Google Scholar](https://scholar.google.co.in/citations?user=8pffuA4AAAAJ&hl=en) &nbsp; &nbsp; &nbsp; [ResearchGate](https://www.researchgate.net/profile/Saumik_Bhattacharya)
 
+### Patents:
+* *Method and System for Dehazing Videos and Images in Real-time*<br/>
+  **Saumik Bhattacharya**, Himanshu Kumar, Sumana Gupta, K.S.Venkatesh<br/>
+  Filing No. 201811027075 (Filing funded by IIT Kanpur)
+  
+* *Method and System for Expansion of Visibility Range of an Image*<br/>
+  **Saumik Bhattacharya**, Sumana Gupta, K.S. Venkatesh<br/>
+  Filing No. 201611011684 (Filing funded by IIT Kanpur)
+  
+* *Colour Filter Array and Process for Real Time Foreground Extraction*<br/>
+  **Saumik Bhattacharya**, Megha Nehwal, K.S. Venkatesh<br/>
+  Filing No. 201611006602 (Filing funded by IIT Kanpur)
+  
+* *Gain Varying HDR Imaging*<br/>
+  **Saumik Bhattacharya**, Megha Nehwal, K.S. Venkatesh<br/>
+  Filing No. 201611001989 (Filing funded by IIT Kanpur)
+  
+* *Controlled Neutral Density Filter for HDRI*<br/>
+  **Saumik Bhattacharya**, Narshimachari B, Megha Nehwal, K.S. Venkatesh<br/>
+  Filing No. 2804/DEL/2014, 2014 (Filing funded by IIT Kanpur)
+  
+### Copyright:
+*  *STEFANN: Scene Text Editor using Font Adaptive Neural*<br/>
+Prasun Roy, **Saumik Bhattacharya**, Subhankar Ghosh, Umapada Pal<br/>
+Diary No. 9737/2019-CO/SW
+
 ### Preprints:
+* [Computational model on COVID-19 pandemic using probabilistic cellular automata](https://arxiv.org/pdf/2006.11270.pdf)<br/>
+  Sayantari Ghosh, **Saumik Bhattacharya**, *Aug 2020*
+
+* [Self-Supervised Representation Learning for Detection of ACL Tear Injury in Knee MRI](https://arxiv.org/pdf/2007.07761.pdf)<br/>
+  Siladittya Manna, **Saumik Bhattacharya**, Umapada Pal, *July 2020*
+  
 * [Co-VeGAN: Complex-Valued Generative Adversarial Network for Compressive Sensing MR Image Reconstruction](https://arxiv.org/abs/2002.10523)<br/>
  Bhavya Vasudeva, Puneesh Deora, **Saumik Bhattacharya**, Pyari Mohan Pradhan, *Nov 2019*
 
-* [Robust Compressive Sensing MRI Reconstruction using Generative Adversarial Networks](https://arxiv.org/abs/1910.06067)<br/>
- Puneesh Deora, Bhavya Vasudeva, **Saumik Bhattacharya**, Pyari Mohan Pradhan, *Oct 2019*
- 
-* [Ensuring the Spread of Referral Marketing Campaigns: A Quantitative Treatment](https://osf.io/preprints/socarxiv/6spnr/)<br/>
- Kumar Gaurav, Sayantari Ghosh, **Saumik Bhattacharya**, Yatindra Nath Singh, *Sept 2019*
-
-* [STEFANN: Scene Text Editor using Font Adaptive Neural Network](https://arxiv.org/abs/1903.01192)<br/>
-  Prasun Roy, **Saumik Bhattacharya**, Subhankar Ghosh, Umapada Pal, *March 2019*
-  
-* [Going Viral: The Epidemiological Strategy of Referral Marketing](https://arxiv.org/abs/1808.03780)<br/>
-  Sayantari Ghosh, **Saumik Bhattacharya**, Kumar Gaurav, Yatindra Nath Singh, *Aug 2018*
-  
 * [Effects of Degradations on Deep Neural Network Architectures](https://arxiv.org/abs/1807.10108)<br/> 
   Prasun Roy, Subhankar Ghosh, **Saumik Bhattacharya**, Umapada Pal, *July 2018, June 2019*
 
+* [Going Viral: The Epidemiological Strategy of Referral Marketing](https://arxiv.org/abs/1808.03780)<br/>
+  Sayantari Ghosh, **Saumik Bhattacharya**, Kumar Gaurav, Yatindra Nath Singh, *Aug 2018*
+  
 
 ### Journals:
+* [A data-driven understanding of COVID-19 dynamics using sequential genetic algorithm based probabilistic cellular automata](https://www.sciencedirect.com/science/article/pii/S156849462030630X)<br/>
+Sayantari Ghosh, **Saumik Bhattacharya**<br/>
+*Elsevier Applied Soft-computing*
+
+* [Ensuring the spread of referral marketing campaigns: a quantitative treatment](https://www.nature.com/articles/s41598-020-67895-6)<br/>
+Sayantari Ghosh, Kumar Gaurav, **Saumik Bhattacharya**, Yatindra Nath Singh<br/>
+*Nature Scientific Reports (2020)*
+
 * [Viral Marketing on Social Networks: An Epidemiological Perspective](https://www.sciencedirect.com/science/article/pii/S0378437119302274)<br/>
  **Saumik Bhattacharya**, Kumar Gaurav and Sayantari Ghosh<br/>
  *Physica A: Statistical Mechanics and its Applications (2019)*
@@ -51,10 +82,22 @@
  *IEEE Transactions on Circuits and Systems for Video Technology (2016)*
 
 ### Conferences:
+* [Structure Preserving Compressive Sensing MRI Reconstruction Using Generative Adversarial Networks](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Deora_Structure_Preserving_Compressive_Sensing_MRI_Reconstruction_Using_Generative_Adversarial_Networks_CVPRW_2020_paper.pdf)<br/>
+  Puneesh Deora, Bhavya Vasudeva, **Saumik Bhattacharya**, Pyari Mohan Pradhan<br/>
+  *IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) 2020*
+
+* [STEFANN: Scene Text Editor using Font Adaptive Neural Network](https://openaccess.thecvf.com/content_CVPR_2020/papers/Roy_STEFANN_Scene_Text_Editor_Using_Font_Adaptive_Neural_Network_CVPR_2020_paper.pdf)<br/>
+  Prasun Roy, **Saumik Bhattacharya**, Subhankar Ghosh, Umapada Pal<br/>
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020*
+
 * [Classification of RBC and WBC in Noisy Microscopic Images of Blood Smear](https://link.springer.com/chapter/10.1007/978-981-32-9453-0_20)<br/>
   Sayantari Ghosh, **Saumik Bhattacharya**<br/>
   *Proceedings of 2nd National Conference on Information, Photonics and Communication (IPC) 2019, Springer*
-  
+
+* [Large-Scale Font Identification from Document Images](https://link.springer.com/chapter/10.1007/978-3-030-41299-9_46)<br/>
+  Subhankar Ghosh, Prasun Roy, **Saumik Bhattacharya**, Umapada Pal<br/>
+  *Asian Conference on Pattern Recognition (ACPR) 2019, Springer*
+
 * [Video Summarization Using Novel Video Decomposition Algorithm](https://link.springer.com/chapter/10.1007/978-981-10-7898-9_32)<br/>
   **Saumik Bhattacharya**, K S Venkatesh, Sumana Gupta<br/>
   *Proceedings of 2nd International Conference on Computer Vision & Image Processing (CVIP) 2018, Springer*
@@ -137,23 +180,3 @@
  **Saumik Bhattacharya**, Sumana Gupta, K.S. Venkatesh<br/>
  *Heritage Preservation, Springer, Singapore (2018)*
 
-### Patents:
-* *Method and System for Dehazing Videos and Images in Real-time*<br/>
-  **Saumik Bhattacharya**, Himanshu Kumar, Sumana Gupta, K.S.Venkatesh<br/>
-  Filing No. 201811027075 (Filing funded by IIT Kanpur)
-  
-* *Method and System for Expansion of Visibility Range of an Image*<br/>
-  **Saumik Bhattacharya**, Sumana Gupta, K.S. Venkatesh<br/>
-  Filing No. 201611011684 (Filing funded by IIT Kanpur)
-  
-* *Colour Filter Array and Process for Real Time Foreground Extraction*<br/>
-  **Saumik Bhattacharya**, Megha Nehwal, K.S. Venkatesh<br/>
-  Filing No. 201611006602 (Filing funded by IIT Kanpur)
-  
-* *Gain Varying HDR Imaging*<br/>
-  **Saumik Bhattacharya**, Megha Nehwal, K.S. Venkatesh<br/>
-  Filing No. 201611001989 (Filing funded by IIT Kanpur)
-  
-* *Controlled Neutral Density Filter for HDRI*<br/>
-  **Saumik Bhattacharya**, Narshimachari B, Megha Nehwal, K.S. Venkatesh<br/>
-  Filing No. 2804/DEL/2014, 2014 (Filing funded by IIT Kanpur)
