@@ -1,5 +1,4 @@
 <head>
-  <title>HTML Elements Reference</title>
 </head>
 ### [Bio](#bio) &nbsp; &nbsp; &nbsp; [Research Areas](#research-areas) &nbsp; &nbsp; &nbsp; [News](#news) &nbsp; &nbsp; &nbsp; [Publications](publications.md) &nbsp; &nbsp; &nbsp; [People](people.md) &nbsp; &nbsp; &nbsp; [Teaching](teaching.md) &nbsp; &nbsp; &nbsp; [Contact](contact.md)
 
