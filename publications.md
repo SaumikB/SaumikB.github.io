@@ -6,7 +6,7 @@
 [Google Scholar](https://scholar.google.co.in/citations?user=8pffuA4AAAAJ&hl=en) &nbsp; &nbsp; &nbsp; [ResearchGate](https://www.researchgate.net/profile/Saumik_Bhattacharya)
 
 ### Preprints:
-* [Co-VeGAN: Complex-Valued Generative Adversarial Network for Compressive Sensing MR Image Reconstruction](https://arxiv.org/abs/2002.10523)<br/>
+*<img src="saumikfec_0.jpg" alt="Saumik Bhattacharya" width="180" height="180" align="right" HSPACE="50" VSPACE="50" /> [Co-VeGAN: Complex-Valued Generative Adversarial Network for Compressive Sensing MR Image Reconstruction](https://arxiv.org/abs/2002.10523)<br/>
  Bhavya Vasudeva, Puneesh Deora, **Saumik Bhattacharya**, Pyari Mohan Pradhan, *Nov 2019*
 
 * [Robust Compressive Sensing MRI Reconstruction using Generative Adversarial Networks](https://arxiv.org/abs/1910.06067)<br/>
