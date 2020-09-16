@@ -15,7 +15,7 @@
 * Deep learning
 
 # News
-* August 2020: Our [paper](https://www.nature.com/articles/s41598-020-67895-6) got accepted in Applied Soft Computing (IF 5.472, h5-index 96).
+* August 2020: Our [paper](https://www.sciencedirect.com/science/article/pii/S156849462030630X) got accepted in Applied Soft Computing (IF 5.472, h5-index 96).
 * March 2020:  Our [paper](https://www.nature.com/articles/s41598-020-67895-6) got accepted in Nature Scientific Reports (IF 4.576, h5-index 178).
 * March 2020:  Our [paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Deora_Structure_Preserving_Compressive_Sensing_MRI_Reconstruction_Using_Generative_Adversarial_Networks_CVPRW_2020_paper.pdf) got accepted in IEEE IEEE/CVF CVPR Workshops (h5-index 73).
 * Feb. 2020:   Our [paper](https://arxiv.org/abs/1903.01192) got accepted in CVPR 2020 (h5-index 299).
